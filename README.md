@@ -20,7 +20,7 @@ SUPER RAG Multimodal system with support for PDFs, images, and text documents bu
   <img src="README-images/verdefrescoGuayaba.png" alt="Step1">
 </p>
 
-### 3. Frontend (Next.js) in repository 
+### 3. Frontend (Next.js) in repository [FRONTEND URL](https://github.com/diegoperea20/Next.js-SUPER-Multimodal-RAG-Chat-frontend)
 
 ```powershell
 
